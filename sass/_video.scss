@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------------
+ * Video
+ *------------------------------------------------------------------*/
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 80vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.5;
+}
+
+.header {
+  position: relative;
+  height: 80vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    width: 85%;
+  }
+}
+
+.video-container {
+  position: relative;
+}
