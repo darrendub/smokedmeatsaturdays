@@ -27,16 +27,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/img/smokesgiving.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/smokesgiving.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -154,17 +144,6 @@
 		"oA": 0,
 		"oAP": "/smokesgiving.html",
 		"oF": 0
-		},
-	"/video/smokesgiving-poster.jpg": {
-		"ft": 16384,
-		"iS": 417774,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/video/smokesgiving-poster.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"/video/smokesgiving.mp4": {
 		"cB": 0,
