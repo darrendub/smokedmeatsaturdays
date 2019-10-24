@@ -71,6 +71,10 @@ img {
 
 .type-link-white {
   color: white; }
+  .type-link-white:active {
+    color: white; }
+  .type-link-white:visited {
+    color: white; }
 
 /*--------------------------------------------------------------------
  * Video

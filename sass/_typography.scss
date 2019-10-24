@@ -52,4 +52,10 @@
 
 .type-link-white {
 	color: white;
+	&:active {
+		color: white;
+	}
+	&:visited {
+		color: white;
+	}
 }
