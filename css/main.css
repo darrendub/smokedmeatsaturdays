@@ -59,27 +59,48 @@ img {
 .type-bold {
   font-weight: 600; }
 
+.type-center {
+  text-align: center; }
+
+.type-caps {
+  text-transform: uppercase; }
+
+.type-link {
+  text-decoration: underline;
+  font-weight: bold; }
+
+.type-link-white {
+  color: white; }
+
 /*--------------------------------------------------------------------
  * Video
  *------------------------------------------------------------------*/
-video {
+.smokesgiving-video {
   object-fit: cover;
   width: 100vw;
-  height: 80vh;
+  height: 65vh;
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0.5; }
 
+@media (max-width: 680px) {
+  .smokesgiving-video {
+    height: 50vh; } }
+
 .header {
   position: relative;
-  height: 80vh;
+  height: 65vh;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center; }
-  .header img {
-    width: 85%; }
+
+@media (max-width: 680px) {
+  .header {
+    height: 50vh; } }
+  .header .smokesgiving-logo {
+    width: 80vw; }
 
 .video-container {
   position: relative; }
@@ -129,6 +150,10 @@ video {
 
 .container {
   padding: 40px; }
+
+@media (max-width: 680px) {
+  .container {
+    padding: 16px; } }
 
 .col-align-top {
   -webkit-align-self: flex-start;

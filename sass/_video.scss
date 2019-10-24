@@ -2,26 +2,33 @@
  * Video
  *------------------------------------------------------------------*/
 
-video {
+.smokesgiving-video {
   object-fit: cover;
   width: 100vw;
-  height: 80vh;
+  height: 65vh;
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0.5;
+  @media (max-width: $width-md) {
+    height: 50vh;
+  }
 }
 
 .header {
   position: relative;
-  height: 80vh;
+  height: 65vh;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
+  @media (max-width: $width-md) {
+    height: 50vh;
+  }
 
-  img {
-    width: 85%;
+
+  .smokesgiving-logo {
+    width: 80vw;
   }
 }
 
