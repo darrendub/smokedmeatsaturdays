@@ -54,6 +54,9 @@
 
 .container {
   padding: $unit-xxl;
+  @media (max-width: $width-md) {
+    padding: $unit-md;
+  }
 }
 
 ////////////////////////

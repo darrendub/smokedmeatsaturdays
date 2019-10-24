@@ -27,6 +27,17 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/img/smokesgiving-mike.jpg": {
+		"ft": 16384,
+		"iS": 313583,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/smokesgiving-mike.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/smokesgiving.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -165,7 +176,7 @@
 		},
 	"/video/smokesgiving-poster.jpg": {
 		"ft": 16384,
-		"iS": 416442,
+		"iS": 195214,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/video/smokesgiving-poster.jpg",
