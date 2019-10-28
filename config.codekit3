@@ -7,7 +7,7 @@
 		"uuidString": "4DE79A93-517C-4F44-8C1E-A88A250DC60C"
 		}
 	],
-"creatorBuild": "31927",
+"creatorBuild": "31934",
 "files": {
 	"/CNAME": {
 		"cB": 0,
@@ -2154,7 +2154,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,

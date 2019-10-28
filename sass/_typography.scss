@@ -59,3 +59,12 @@
 		color: white;
 	}
 }
+
+.button {
+	padding: $unit-md $unit-lg;
+	color: white;
+	font-family: $sans;
+	background-color: $azure;
+	border-radius: 4px;
+	text-decoration: none;
+}
